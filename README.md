@@ -17,3 +17,5 @@ Use MultiWiiConf to config Multiwii (i.e. PID settings)
 Or FlyWiiGUI-lite from http://flug.synerflight.com/serve-file/e1543242604/l1505793422/da/c1/3PbwAEjJiZ_5pUaD9NL8eJNkMwEc0qzHeL0M5lnWGgw/1/36/file/1505793422flywiigui-lite.zip
 
 Schematics https://github.com/ShanGlor/NodeMcuRx/blob/master/schem.png
+
+To Do:  Multiwii24 firmware for Mega
