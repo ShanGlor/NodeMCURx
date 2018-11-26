@@ -15,3 +15,4 @@ Type in address bar "192.168.4.1"
 
 Use MultiWiiConf to config Multiwii (i.e. PID settings)
 
+Schematics https://github.com/ShanGlor/NodeMcuRx/blob/master/schem.png
